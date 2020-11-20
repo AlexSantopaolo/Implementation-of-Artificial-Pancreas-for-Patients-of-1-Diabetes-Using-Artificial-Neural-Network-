@@ -27,5 +27,4 @@ function and optimized by Levenberg-Marquardt, the training of the ANN
 was successfull with R is approaching to 1 (R is a measure of the ANN performance. 1 is best possible result). The generated ANN was then used as
 a controller and the Insulin - Glucose system was simulated, the ANN was
 successfully able to maintain normoglycemia. In conclusion, ANN is viable
-for use as an Artificial Pancreas and this methodology provides many advantages over direct implementation of MPC such as faster speed. (add more
-reasons here)
+for use as an Artificial Pancreas. The model can manage in a very good manner the highly non linearity of glucoregolatory system.
