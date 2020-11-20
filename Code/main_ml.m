@@ -1,6 +1,5 @@
 %%Implementation of Artificial Pancreas
 
-%Syed Saad Saif 
 %Santopaolo Alessandro
 
 % Before running the code please run init.m to initialise all the variables.
