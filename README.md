@@ -1,8 +1,15 @@
+
+
 # Implementation-of-Artificial-Pancreas-for-Patients-of-1-Diabetes-Using-Artificial-Neural-Network-
 
-<h2> Project Description </h2>
+Developed by: A. Santopaolo (2019).
 
-An Artificial Pancreas was implemented using an ANN that maintains the glucose levels of patients with type 1 diabetes in an optimal range. The neural network takes as input many parameters of the patient's Glucose-Insulin
+Supervisor: prof. D. Iacoviello.
+
+Achievement: Optimal Control.
+
+
+Artificial Pancreas was implemented using an ANN that maintains the glucose levels of patients with type 1 diabetes in an optimal range. The neural network takes as input many parameters of the patient's Glucose-Insulin
 system and calculates the controller output (insulin 
 ow rate) based only on
 the current values of the Glucose-Insulin system. In other words, the neural network does not take into account the history of the parameters of the
@@ -28,3 +35,7 @@ was successfull with R is approaching to 1 (R is a measure of the ANN performanc
 a controller and the Insulin - Glucose system was simulated, the ANN was
 successfully able to maintain normoglycemia. In conclusion, ANN is viable
 for use as an Artificial Pancreas. The model can manage in a very good manner the highly non linearity of glucoregolatory system.
+
+<h3>Implementation Details</h3>
+
+The code has been written in Matlab. The code is available, and can be opened with Matlab software 2018b.
